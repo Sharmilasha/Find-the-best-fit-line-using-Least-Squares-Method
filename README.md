@@ -91,8 +91,9 @@ print(dataset.iloc[:,1:3])
 ~~~
 
 ## Output:
-![s1](https://user-images.githubusercontent.com/94506182/193316156-1b3db0b3-4473-45d0-8497-209e15b9d6d9.png)
-![s2](https://user-images.githubusercontent.com/94506182/193316197-286eae69-9ab4-4471-9318-088ce6218f5f.png)
+![s1](https://user-images.githubusercontent.com/94506182/193316601-17ddf11b-3f85-4b55-9fd8-4ed5af2a33b2.png)
+![s2](https://user-images.githubusercontent.com/94506182/193316650-3c740e3c-f4cf-4fed-a55b-2174335365ce.png)
+
 
 
 
