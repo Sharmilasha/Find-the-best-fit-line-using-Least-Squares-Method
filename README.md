@@ -88,7 +88,6 @@ print(dataset.iloc[3])
 print(dataset.iloc[0:4])
 
 print(dataset.iloc[:,1:3])
-~~~
 
 ## Output:
 ![Screenshot (208)](https://user-images.githubusercontent.com/94506182/193317451-07f74671-0ab9-4ee6-bbef-4425cb277200.png)
