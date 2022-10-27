@@ -54,7 +54,7 @@ print("y pred:",Y_pred)
 plt.scatter(X,Y)
 plt.plot(X,Y_pred,color='pink')
 plt.show()
-
+~~~
 */
 
 ## Output:
